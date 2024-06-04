@@ -13,7 +13,6 @@ This project aims to predict the risk of credit card defaults using various mach
 - [Handling Data Imbalance](#handling-data-imbalance)
 - [Hyperparameter Tuning](#hyperparameter-tuning)
 - [Results](#results)
-- [License](#license)
 
 ## Installation
 
