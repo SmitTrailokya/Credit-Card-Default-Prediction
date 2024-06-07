@@ -101,7 +101,7 @@ This project aims to predict the risk of credit card defaults using various mach
 2. Scatter plots to identify outliers and relationships.
 3. Distribution plots for numerical features.
 
-##Model Training and Evaluation
+## Model Training and Evaluation
 
 1. Split the data into training and testing sets:
    ```python
